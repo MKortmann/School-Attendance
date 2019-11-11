@@ -1,9 +1,15 @@
 # school-attendance
 
+School Attendance has a visual interface to track the number of attendance of each student!
+Click here to have a overall idea how it works:
+https://mkortmann.github.io/School-Attendance/
+
+
 ## Basic 
 
 This project consist in get a really mess code and improve it.
 The code was improved using the method MVO (Model, View, Octopus).
+
 
 ## Some Explanation
 
